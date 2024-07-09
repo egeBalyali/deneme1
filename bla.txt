@@ -2,3 +2,4 @@ egedeğiştirdi
 Senaekledi
 Senaeklemedi 
 senabranchekledi
+branchte değişiklik yaptım 
